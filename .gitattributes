@@ -1,0 +1,2 @@
+IMR90_ATAC/conf_ensemble_chr1.tar.gz filter=lfs diff=lfs merge=lfs -text
+IMR90_ATAC/conf_ensemble_chr22.tar.gz filter=lfs diff=lfs merge=lfs -text
